@@ -1,0 +1,9 @@
+{
+  "name": "arian-maala-portfolio",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Static personal portfolio of Arian Jay G. Maala.",
+  "scripts": {
+    "start": "python -m http.server 5500 --directory public"
+  }
+}
